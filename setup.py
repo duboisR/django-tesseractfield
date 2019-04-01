@@ -22,9 +22,9 @@ setup(
     include_package_data=True,
     url='http://github.com/duboisR/django_tesseractfield',
     classifiers=[
-        "Programming Language :: Python",
-        "Development Status :: 0 - Development",
+        "Development Status :: 4 - Beta",
         "License :: OSI Approved :: MIT License",
+        "Framework :: Django :: 2.0",
         "Programming Language :: Python :: 3.5",
     ],
     keywords=['django', 'tesseract', 'field', 'admin'],
