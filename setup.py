@@ -20,7 +20,7 @@ setup(
     description="A small app providing a tesseract field for django",
     long_description=open('README.md').read(),
     include_package_data=True,
-    url='http://github.com/duboisR/django_tesseractfield',
+    url='http://github.com/duboisR/django-tesseractfield',
     classifiers=[
         "Development Status :: 4 - Beta",
         "License :: OSI Approved :: MIT License",
