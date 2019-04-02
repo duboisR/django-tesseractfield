@@ -19,6 +19,7 @@ setup(
     author_email="dubois.rom@gmail.com",
     description="A small app providing a tesseract field for django",
     long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
     include_package_data=True,
     url='http://github.com/duboisR/django-tesseractfield',
     classifiers=[

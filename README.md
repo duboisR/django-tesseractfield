@@ -5,7 +5,7 @@
 This module fills the need of having a **tesseractfield** that's usable in both
 django models and forms.
 
-![django-tesseractfield](https://www.useloom.com/share/bc991388a02047a7ae2f9796f23a719f)
+![django-tesseractfield](http://www.giphy.com/gifs/8hYe9XW88QuL062sMe)
 
 Makes use of [tesseract](https://opensource.google.com/projects/tesseract).
 
