@@ -1,3 +1,7 @@
+This repo forked from [](https://github.com/duboisR/django-tesseractfield) to update last release versions of packages, framework, and Python.
+
+Repo created by [@duboisR](https://github.com/duboisR) originally.
+
 [![PyPI version](https://badge.fury.io/py/django-tesseractfield.svg)](https://badge.fury.io/py/django-tesseractfield)
 
 # django-tesseractfield
@@ -48,6 +52,7 @@ class MyForm(forms.Form):
 
 ## Maintainers
 - [@duboisR](https://github.com/duboisR)
+- [@YlmRdm](https://github.com/YlmRdm)
 
 ## Articles
 - [Django Tesseract OCR](https://medium.com/@duboisr/django-et-tesseract-188d389ad4ba)

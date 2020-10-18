@@ -6,22 +6,22 @@ from setuptools import setup, find_packages
 import tesseractfield
 
 setup(
-    name='django-tesseractfield',
+    name='djtesseract',
     version=tesseractfield.__version__,
-    packages=find_packages(),
+    packages=find_packages(exclude=("test",)),
     install_requires=[
         'numpy==1.19.2',
         'opencv-python==4.4.0.44',
         'Pillow==8.0.0',
         'pytesseract==0.3.6',
     ],
-    author="Dubois Romain",
-    author_email="dubois.rom@gmail.com",
+    author="Yalim Erdem",
+    author_email="yalim.erdem@gmail.com",
     description="A small app providing a tesseract field for django",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     include_package_data=True,
-    url='http://github.com/duboisR/django-tesseractfield',
+    url='https://github.com/YlmRdm/django-tesseractfield',
     classifiers=[
         "Development Status :: 4 - Beta",
         "License :: OSI Approved :: MIT License",
