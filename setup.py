@@ -25,8 +25,8 @@ setup(
     classifiers=[
         "Development Status :: 4 - Beta",
         "License :: OSI Approved :: MIT License",
-        "Framework :: Django :: 2.0",
-        "Programming Language :: Python :: 3.5",
+        "Framework :: Django :: 3.1.2",
+        "Programming Language :: Python :: 3.9",
     ],
     keywords=['django', 'tesseract', 'field', 'admin'],
     requires=['django (>=2.0)'],
