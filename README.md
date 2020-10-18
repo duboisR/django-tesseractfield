@@ -1,4 +1,4 @@
-This repo forked from [](https://github.com/duboisR/django-tesseractfield) to update last release versions of packages, framework, and Python.
+This repo forked from (https://github.com/duboisR/django-tesseractfield) to update last release versions of packages, framework, and Python.
 
 Repo created by [@duboisR](https://github.com/duboisR) originally.
 
