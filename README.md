@@ -1,16 +1,20 @@
-[![PyPI version](https://badge.fury.io/py/django-tesseractfield.svg)](https://badge.fury.io/py/django-tesseractfield)
+[![PyPI version](https://badge.fury.io/py/djtesseract.svg)](https://badge.fury.io/py/djtesseract)
 
-# django-tesseractfield
+# djtesseract
+
+This repo forked from (https://github.com/duboisR/django-tesseractfield) to update last release versions of packages, framework, and Python.
+
+Repo created by [@duboisR](https://github.com/duboisR) originally.
 
 This module fills the need of having a **tesseractfield** that's usable in both
 django models and forms.
 
-![django-tesseractfield](https://media.giphy.com/media/8hYe9XW88QuL062sMe/giphy.gif)
+![djtesseract](https://media.giphy.com/media/8hYe9XW88QuL062sMe/giphy.gif)
 
 Makes use of [tesseract](https://opensource.google.com/projects/tesseract).
 
 ## Installation
-- Run ``pip install django-tesseractfield``
+- Run ``pip install djtesseract``
 - Add ``tesseractfield`` to your ``INSTALLED_APPS``
 - Collect static files with ``./manage.py collectstatic``
 
@@ -48,6 +52,7 @@ class MyForm(forms.Form):
 
 ## Maintainers
 - [@duboisR](https://github.com/duboisR)
+- [@YlmRdm](https://github.com/YlmRdm)
 
 ## Articles
 - [Django Tesseract OCR](https://medium.com/@duboisr/django-et-tesseract-188d389ad4ba)
