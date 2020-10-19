@@ -17,7 +17,7 @@ setup(
     ],
     author="Yalim Erdem",
     author_email="yalim.erdem@gmail.com",
-    description="A small app providing a tesseract field for django",
+    description="A small app providing a tesseract field for django 3.1.2",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     include_package_data=True,
@@ -25,10 +25,9 @@ setup(
     classifiers=[
         "Development Status :: 4 - Beta",
         "License :: OSI Approved :: MIT License",
-        "Framework :: Django :: 3.1.2",
         "Programming Language :: Python :: 3.9",
     ],
     keywords=['django', 'tesseract', 'field', 'admin'],
-    requires=['django (>=2.0)'],
+    requires=['django (>=3.0)'],
     license='MIT License',
 )

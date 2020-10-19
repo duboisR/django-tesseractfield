@@ -1,10 +1,10 @@
-This repo forked from [](https://github.com/duboisR/django-tesseractfield) to update last release versions of packages, framework, and Python.
-
-Repo created by [@duboisR](https://github.com/duboisR) originally.
-
-[![PyPI version](https://badge.fury.io/py/django-tesseractfield.svg)](https://badge.fury.io/py/django-tesseractfield)
+[![PyPI version](https://badge.fury.io/py/djtesseract.svg)](https://badge.fury.io/py/djtesseract)
 
 # django-tesseractfield
+
+This repo forked from (https://github.com/duboisR/django-tesseractfield) to update last release versions of packages, framework, and Python.
+
+Repo created by [@duboisR](https://github.com/duboisR) originally.
 
 This module fills the need of having a **tesseractfield** that's usable in both
 django models and forms.
