@@ -1,6 +1,6 @@
 Django==2.0.13
 numpy==1.16.2
 opencv-python==4.0.0.21
-Pillow==5.4.1
+Pillow==8.1.1
 pytesseract==0.2.6
 pytz==2018.9
