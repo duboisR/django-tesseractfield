@@ -11,7 +11,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         'numpy==1.14.0',
-        'opencv-python==3.4.0.12',
+        'opencv-python==4.2.0.32',
         'Pillow==5.0.0',
         'pytesseract==0.1.8',
     ],
