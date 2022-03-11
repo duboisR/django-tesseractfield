@@ -12,7 +12,7 @@ setup(
     install_requires=[
         'numpy==1.14.0',
         'opencv-python==3.4.0.12',
-        'Pillow==5.0.0',
+        'Pillow==9.0.1',
         'pytesseract==0.1.8',
     ],
     author="Dubois Romain",
