@@ -10,7 +10,7 @@ setup(
     version=tesseractfield.__version__,
     packages=find_packages(),
     install_requires=[
-        'numpy==1.14.0',
+        'numpy==1.22.0',
         'opencv-python==3.4.0.12',
         'Pillow==5.0.0',
         'pytesseract==0.1.8',
